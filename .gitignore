@@ -1,0 +1,6 @@
+.env
+*.log
+*.pid
+.vscode/
+.idea/
+*.SWP
